@@ -120,6 +120,10 @@ h1 {
   transform: scale(1);
 }
 
+.copy-img{
+  background-color: rgb(59, 19, 60);
+}
+
 .input-container {
   width: 100%;
   background-color: var(--dk-violet);
